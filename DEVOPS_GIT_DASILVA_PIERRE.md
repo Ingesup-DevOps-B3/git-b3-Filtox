@@ -22,5 +22,7 @@
 ![init](https://github.com/Ingesup-DevOps-B3/git-b3-Filtox/blob/main/images/init.png)
 
 - Faire pointer le dépôt local sur un dépôt distant (Remote)
+
+
 - Vérifier le dépôt distant
 - Cloner le repository
