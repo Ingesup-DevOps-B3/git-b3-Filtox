@@ -100,3 +100,5 @@ Host stark
 ![pull_request_2](https://github.com/Ingesup-DevOps-B3/git-b3-Filtox/blob/main/images/pull_request_2.png)
 
 -  Merger les 2 branches sur votre repo. (Avec les modifications de votre binome)
+
+![merge](https://github.com/Ingesup-DevOps-B3/git-b3-Filtox/blob/main/images/merge.png)
