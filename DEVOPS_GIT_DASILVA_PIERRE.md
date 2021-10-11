@@ -3,4 +3,5 @@
 
 - Générer une paire de clef SSH
 
-![SSH](https://imgur.com/a/BMtTux4)
+![ssh](https://user-images.githubusercontent.com/9011059/136790911-c7c8dff3-00da-4684-bfc1-cd68ba1420ab.png)
+
