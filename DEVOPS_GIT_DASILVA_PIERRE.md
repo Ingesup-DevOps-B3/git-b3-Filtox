@@ -96,6 +96,7 @@ Host stark
 
 -  Créer une Pull Request sur Github
 
-
+![pull_request_1](https://github.com/Ingesup-DevOps-B3/git-b3-Filtox/blob/main/images/pull_request.png)
+![pull_request_2](https://github.com/Ingesup-DevOps-B3/git-b3-Filtox/blob/main/images/pull_request_2.png)
 
 -  Merger les 2 branches sur votre repo. (Avec les modifications de votre binome)
