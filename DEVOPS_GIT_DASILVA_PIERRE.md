@@ -59,3 +59,29 @@ La commande git pull est en fait la combinaison de deux autres commandes, git fe
 
 - Pousser vos modifications
 
+![push](https://github.com/Ingesup-DevOps-B3/git-b3-Filtox/blob/main/images/push.png)
+
+## Exercice 4 : Modification du projet GUI
+
+- Modifier le fichier `config` en se connectant sur l'interface Github
+  - Rajouter :
+```sh
+Host stark
+    HostName 127.0.0.1
+    User john
+    Port 6666
+    IdentityFile ~/.ssh/stark.key
+```
+
+## Exervice 5 : Branching et Merging
+
+- Cloner le repo de votre voisin
+- Assurer vous d'avoir un repo à jour
+- Créer une nouvelle branche et basculer dessus
+  - Branch name : change_throne 
+- Modifier la configuration SSH 
+  -  Modifier le user `daenerys` pour `john`dans l'host `targaryen`
+  -  Supprimer le user `john`dans l'host `stark`
+-  Commiter et pousser la modification dans la nouvelle branche
+-  Créer une Pull Request sur Github
+-  Merger les 2 branches sur votre repo. (Avec les modifications de votre binome)
