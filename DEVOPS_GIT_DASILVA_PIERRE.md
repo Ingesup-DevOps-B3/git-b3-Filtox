@@ -73,6 +73,8 @@ Host stark
     IdentityFile ~/.ssh/stark.key
 ```
 
+![host](https://github.com/Ingesup-DevOps-B3/git-b3-Filtox/blob/main/images/host.png)
+
 ## Exervice 5 : Branching et Merging
 
 - Cloner le repo de votre voisin
