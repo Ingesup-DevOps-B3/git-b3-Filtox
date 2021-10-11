@@ -81,6 +81,9 @@ Host stark
 - Assurer vous d'avoir un repo à jour
 - Créer une nouvelle branche et basculer dessus
   - Branch name : change_throne 
+
+![branche](https://github.com/Ingesup-DevOps-B3/git-b3-Filtox/blob/main/images/branch.png)
+
 - Modifier la configuration SSH 
   -  Modifier le user `daenerys` pour `john`dans l'host `targaryen`
   -  Supprimer le user `john`dans l'host `stark`
