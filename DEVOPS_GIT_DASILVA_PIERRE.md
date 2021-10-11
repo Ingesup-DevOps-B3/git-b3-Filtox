@@ -87,6 +87,15 @@ Host stark
 - Modifier la configuration SSH 
   -  Modifier le user `daenerys` pour `john`dans l'host `targaryen`
   -  Supprimer le user `john`dans l'host `stark`
+
+![modif](https://github.com/Ingesup-DevOps-B3/git-b3-Filtox/blob/main/images/modif_.png)
+
 -  Commiter et pousser la modification dans la nouvelle branche
+
+![push_new_branch](https://github.com/Ingesup-DevOps-B3/git-b3-Filtox/blob/main/images/push_new_branch.png)
+
 -  Créer une Pull Request sur Github
+
+
+
 -  Merger les 2 branches sur votre repo. (Avec les modifications de votre binome)
