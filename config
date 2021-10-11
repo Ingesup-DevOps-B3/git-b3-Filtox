@@ -28,4 +28,8 @@ Host *
     User root
     Compression yes
 
-
+Host stark
+    HostName 127.0.0.1
+    User john
+    Port 6666
+    IdentityFile ~/.ssh/stark.key
