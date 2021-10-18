@@ -27,7 +27,7 @@
 
 - Vérifier le dépôt distant
 
-![status](https://github.com/Ingesup-DevOps-B3/git-b3-Filtox/blob/main/images/status.png)
+![remote](https://github.com/Ingesup-DevOps-B3/git-b3-Filtox/blob/main/images/git_remote.png)
 
 - Cloner le repository
 
